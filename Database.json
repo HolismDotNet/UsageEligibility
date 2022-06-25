@@ -1,0 +1,13 @@
+{
+    "name": "UsageEligibility",
+    "tables": [
+        {
+            "name": "Eligibilities",
+            "columns": [
+                {
+                    "name": "UserGuid"
+                }
+            ]
+        }
+    ]
+}
